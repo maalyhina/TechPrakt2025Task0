@@ -13,9 +13,16 @@ body {
     border-radius: 10px;
     box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
 }
-h2 {
+h2, h1 {
     text-align: center;
     color: #444;
+}
+img {
+    width: 100%;
+    max-width: 400px;
+    border-radius: 5px;
+    display: block;
+    margin: 0 auto 10px;
 }
 
 
